@@ -1,0 +1,1 @@
+Nessa primeira aula não fiz anotaçoes pois era conteudo de introdução a python apenas fiz os exericicios
