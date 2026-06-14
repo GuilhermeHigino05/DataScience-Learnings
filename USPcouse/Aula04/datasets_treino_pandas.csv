@@ -1,0 +1,511 @@
+ID_Pedido,Data_Pedido,ID_Cliente,Segmento,Regiao,Categoria,Produto,Valor_Venda,Quantidade,Desconto,Lucro
+OD-1164,2024-09-06,CT-154,Home Office,Sul,Vestuário,Calça Jeans Premium,1123.27,10,0.0,280.82
+OD-1065,2025-05-27,CT-140,Corporativo,Nordeste,Material de Escritório,Organizador de Mesa,252.15,6,0.0,100.86
+OD-1049,31/07/2024,CT-181,Consumidor,Nordeste,Material de Escritório,Organizador de Mesa,79.36,2,0.0,31.74
+OD-1243,2026-02-27,CT-228,Corporativo,Norte,Material de Escritório,Caneta Gel 12un,135.26,8,0.1,41.93
+OD-1157,2026-03-10,CT-213,Corporativo,Centro-Oeste,Eletrônicos,Smartphone X,10522.96,9,0.0,1578.44
+OD-1339,04/09/2025,CT-199,Consumidor,Sudeste,Material de Escritório,Caderno Universitário,244.66,9,0.2,53.83
+OD-1381,27/07/2025,CT-169,Corporativo,Centro-Oeste,Material de Escritório,Caneta Gel 12un,52.52,3,0.0,21.01
+OD-1170,2024-09-24,CT-153,Consumidor,Sudeste,Material de Escritório,Caneta Gel 12un,58.26,3,0.0,23.3
+OD-1427,2025-08-28,CT-193,Corporativo,Norte,Vestuário,Tênis Casual,569.07,3,0.0,142.27
+OD-1148,2025-04-01,CT-218,Home Office,Sudeste,Material de Escritório,Caderno Universitário,207.03,8,0.0,82.81
+OD-1394,25/02/2026,CT-134,Consumidor,Norte,Material de Escritório,Caderno Universitário,202.77,9,0.0,81.11
+OD-1128,2024-04-14,CT-128,Corporativo,Nordeste,Móveis,Cadeira Ergonômica,3112.48,7,0.0,622.5
+OD-1025,29/09/2025,CT-115,Consumidor,Sul, Eletrônicos ,Fone Bluetooth,297.81,2,0.0,44.67
+OD-1068,2024-09-15,CT-153,Consumidor,Nordeste,Eletrônicos,Smartphone X,12378.14,10,0.0,1856.72
+OD-1004,2024-11-22,CT-172,Corporativo,Centro-Oeste,Eletrônicos,Notebook Pro,25288.02,7,0.05,2971.34
+OD-1437,2025-06-30,CT-238,Consumidor,Nordeste,Vestuário,Calça Jeans Premium,551.6,5,0.1,96.53
+OD-1407,"May 25, 2025",CT-240,Consumidor,Sudeste,Material de Escritório,Organizador de Mesa,363.32,10,0.0,145.33
+OD-1373,2025-04-12,CT-116,Home Office,Sudeste,Material de Escritório,Papel A4 500fls,30.57,1,0.0,12.23
+OD-1320,25/01/2024,CT-158,Corporativo,Sudeste,Móveis,Cadeira Ergonômica,1433.68,3,0.05,236.56
+OD-1087,2024-06-26,CT-105,Consumidor,Nordeste,Eletrônicos,Carregador Rápido,190.31,3,0.0,28.55
+OD-1248,17/06/2025,CT-138,Consumidor,Sul,Eletrônicos,Carregador Rápido,437.36,7,0.05,51.39
+OD-1412,2024-09-17,CT-167,Consumidor,Centro-Oeste,Material de Escritório,Papel A4 500fls,250.26,8,0.0,100.1
+OD-1318,2025-06-08,CT-163,Corporativo,Nordeste,Eletrônicos,Notebook Pro,33586.53,10,0.0,5037.98
+OD-1426,2025-02-22,CT-108,Consumidor,Sul,Vestuário,Calça Jeans Premium,1182.87,10,0.05,251.36
+OD-1123,2024-08-04,CT-128,Consumidor,Sul,Eletrônicos,Carregador Rápido,123.29,2,,18.49
+OD-1014,2024-06-15,CT-153,Consumidor,Norte,Material de Escritório,Caneta Gel 12un,73.27,4,0.15,19.42
+OD-1159,2024-12-13,CT-213,Corporativo,Norte,Eletrônicos,Notebook Pro,25341.05,7,0.05,2977.57
+OD-1001,2025-05-14,CT-193,Corporativo,Centro-Oeste,Eletrônicos,Smartphone X,4652.18,4,0.1,395.44
+OD-1321,2025-08-02,CT-158,Corporativo,Centro-Oeste,Material de Escritório,Caderno Universitário,81.17,3,0.0,32.47
+OD-1271,2024-12-02,CT-137,Consumidor,Centro-Oeste,Vestuário,Calça Jeans Premium,746.23,6,0.15,102.61
+OD-1355,2025-05-17,CT-217,Consumidor,Centro-Oeste,Material de Escritório,Caderno Universitário,196.01,8,,78.4
+OD-1149,2024-01-01,CT-196,Home Office,Sudeste,Eletrônicos,Fone Bluetooth,1243.45,9,0.1,
+OD-1050,21/07/2024,CT-150,Consumidor,Norte,Material de Escritório,Organizador de Mesa,380.35,9,0.0,152.14
+OD-1370,2024-08-10,CT-189,Corporativo,Nordeste,Eletrônicos,Notebook Pro,29183.41,9,0.2,583.67
+OD-1186,2025-02-25,CT-248,Corporativo,Centro-Oeste,Móveis,Luminária LED,144.51,2,0.1,18.79
+OD-1067,2025-07-19,CT-211,Consumidor,Centro-Oeste,Material de Escritório,Organizador de Mesa,378.8,9,0.0,
+OD-1282,2025-12-26,CT-154,Consumidor,Nordeste,Eletrônicos,Monitor 4K,3316.23,2,0.0,497.43
+OD-1345,2025-03-18,CT-224,Home Office,Nordeste,Eletrônicos,Smartphone X,5151.77,4,0.0,772.77
+OD-1444,2024-08-16,CT-213,Consumidor,Centro-Oeste, Material de Escritório ,Caneta Gel 12un,56.52,3,0.2,12.43
+OD-1410,2025-11-20,CT-201,Corporativo,Norte,Material de Escritório,Caderno Universitário,74.81,3,0.0,29.92
+OD-1305,2024-07-10,CT-120,Consumidor,Norte,Material de Escritório,Caneta Gel 12un,186.92,10,0.0,74.77
+OD-1101,2025-06-30,CT-231,Corporativo,Nordeste,Material de Escritório,Caneta Gel 12un,117.66,7,0.0,47.06
+OD-1310,"Feb 08, 2024",CT-215,Corporativo,Sudeste,Material de Escritório,Papel A4 500fls,130.93,4,0.05,46.48
+OD-1012,2025-03-20,CT-204,Consumidor,Sul,Móveis,Luminária LED,522.31,7,0.0,104.46
+OD-1027,2025-10-21,CT-208,Home Office,Norte,Material de Escritório,Papel A4 500fls,150.26,5,0.0,60.1
+OD-1375,2024-03-15,CT-122,Consumidor,Nordeste,Eletrônicos,Notebook Pro,3656.82,1,0.15,191.98
+OD-1003,25/05/2025,CT-207,Corporativo,Nordeste,Vestuário,Tênis Casual,647.55,3,0.05,137.6
+OD-1034,2024-07-08,CT-173,Corporativo,Centro-Oeste, Eletrônicos ,Monitor 4K,12717.68,7,0.0,1907.65
+OD-1178,2026-02-05,CT-198,Corporativo,Sudeste, Móveis ,Mesa de Escritório,5497.67,9,0.0,1099.53
+OD-1317,2024-05-24,CT-151,Corporativo,Norte,Vestuário,Tênis Casual,1722.43,9,0.0,430.61
+OD-1096,2025-12-24,CT-137,Consumidor,Sul,Móveis,Estante de Livros,2237.86,6,0.0,447.57
+OD-1446,2026-03-08,CT-123,Home Office,Centro-Oeste,Eletrônicos,Notebook Pro,6819.36,2,0.1,579.65
+OD-1094,2024-05-24,CT-148,Home Office,Nordeste,Material de Escritório,Caneta Gel 12un,116.67,7,0.05,
+OD-1210,2025-02-04,CT-240,Home Office,Norte,Vestuário,Calça Jeans Premium,492.69,4,0.0,123.17
+OD-1059,2024-02-16,CT-246,Corporativo,Sul, Eletrônicos ,Monitor 4K,6983.57,4,0.1,593.6
+OD-1167,2024-04-27,CT-247,Corporativo,Norte,Vestuário,Tênis Casual,415.86,2,0.0,103.96
+OD-1028,2025-04-20,CT-155,Home Office,Nordeste,Eletrônicos,Carregador Rápido,111.99,2,0.05,13.16
+OD-1314,2025-04-18,CT-166,Consumidor,Sudeste,Móveis,Estante de Livros,1298.64,4,0.0,259.73
+OD-1213,2025-05-22,CT-199,Corporativo,Centro-Oeste,Móveis,Cadeira Ergonômica,863.42,2,0.05,142.46
+OD-1367,2024-02-09,CT-226,Corporativo,Nordeste,Material de Escritório,Organizador de Mesa,220.23,6,0.0,88.09
+OD-1024,2024-08-07,CT-159,Consumidor,Norte,Material de Escritório,Caderno Universitário,73.33,3,0.0,29.33
+OD-1208,2024-05-17,CT-229,Consumidor,Norte,Eletrônicos,Monitor 4K,1686.83,1,0.05,198.2
+OD-1023,2026-01-23,CT-149,Home Office,Norte,Móveis,Mesa de Escritório,5202.57,9,0.15,494.24
+OD-1240,2025-09-25,CT-236,Corporativo,Norte,Eletrônicos,Notebook Pro,6326.8,2,0.1,537.78
+OD-1255,2024-02-15,CT-130,Corporativo,Nordeste,Eletrônicos,Smartphone X,11681.74,10,0.0,1752.26
+OD-1020,2025-03-26,CT-158,Consumidor,Sul,Eletrônicos,Notebook Pro,7164.99,2,0.15,
+OD-1035,19/05/2025,CT-118,Corporativo,Sul,Móveis,Luminária LED,237.25,3,0.0,
+OD-1177,2025-09-15,CT-216,Corporativo,Sul, Vestuário ,Jaqueta Corta-Vento,669.83,4,0.15,92.1
+OD-1000,2024-12-07,CT-203,Consumidor,Nordeste, Eletrônicos ,Notebook Pro,33768.77,9,,5065.32
+OD-1270,2025-07-26,CT-224,Consumidor,Sudeste,Vestuário,Tênis Casual,1125.75,6,0.0,281.44
+OD-1477,2024-04-13,CT-157,Corporativo,Nordeste,Vestuário,Camiseta Algodão,419.33,8,0.05,89.11
+OD-1298,2024-12-28,CT-199,Home Office,Centro-Oeste,Eletrônicos,Carregador Rápido,221.86,4,0.0,33.28
+OD-1171,2024-02-23,CT-168,Consumidor,Norte,Vestuário,Camiseta Algodão,341.02,7,0.0,85.26
+OD-1141,07/11/2025,CT-216,Corporativo,Centro-Oeste,Eletrônicos,Carregador Rápido,109.75,2,0.0,16.46
+OD-1453,2025-02-13,CT-184,Consumidor,Sul,Material de Escritório,Papel A4 500fls,191.7,6,0.2,42.17
+OD-1047,2024-05-28,CT-108,Consumidor,Sudeste,Vestuário,Tênis Casual,924.35,5,0.0,231.09
+OD-1404,2024-11-15,CT-102,Corporativo,Centro-Oeste,Material de Escritório,Caneta Gel 12un,151.77,8,0.2,33.39
+OD-1109,2026-03-08,CT-190,Consumidor,Sudeste,Móveis,Luminária LED,227.4,3,0.05,37.52
+OD-1071,2024-01-12,CT-141,Corporativo,Norte,Material de Escritório,Caneta Gel 12un,106.11,6,,42.44
+OD-1299,2026-01-20,CT-150,Home Office,Sul,Material de Escritório,Papel A4 500fls,149.0,5,0.1,46.19
+OD-1337,"Jul 07, 2025",CT-194,Consumidor,Sul,Material de Escritório,Papel A4 500fls,127.35,4,,50.94
+OD-1093,2025-05-16,CT-133,Consumidor,Sudeste,Móveis,Mesa de Escritório,4592.39,7,0.0,918.48
+OD-1349,2024-10-15,CT-220,Consumidor,Centro-Oeste, Material de Escritório ,Caneta Gel 12un,104.34,6,0.1,32.35
+OD-1290,"Oct 27, 2025",CT-227,Consumidor,Norte,Móveis,Cadeira Ergonômica,3541.06,8,0.1,460.34
+OD-1081,2024-12-13,CT-163,Consumidor,Centro-Oeste,Eletrônicos,Carregador Rápido,129.75,2,0.0,19.46
+OD-1449,2024-06-13,CT-130,Consumidor,Sul,Eletrônicos,Carregador Rápido,410.66,7,0.0,61.6
+OD-1192,2026-03-08,CT-152,Consumidor,Centro-Oeste, Material de Escritório ,Caneta Gel 12un,18.51,1,0.05,6.57
+OD-1360,2024-12-15,CT-240,Consumidor,Sudeste,Eletrônicos,Smartphone X,12180.15,10,0.0,1827.02
+OD-1284,18/04/2025,CT-167,Consumidor,Norte,Eletrônicos,Fone Bluetooth,323.17,2,0.15,16.97
+OD-1269,2024-02-17,CT-199,Consumidor,Centro-Oeste,Eletrônicos,Smartphone X,11153.21,9,0.0,1672.98
+OD-1489,2025-10-30,CT-245,Home Office,Centro-Oeste,Eletrônicos,Monitor 4K,11888.73,7,0.0,1783.31
+OD-1227,2024-07-01,CT-193,Consumidor,Sul,Vestuário,Calça Jeans Premium,703.61,6,0.05,149.52
+OD-1274,2024-01-08,CT-146,Home Office,Norte,Eletrônicos,Fone Bluetooth,685.09,5,0.05,
+OD-1377,2025-10-07,CT-176,Consumidor,Sul,Eletrônicos,Smartphone X,6971.39,6,0.0,1045.71
+OD-1313,2024-03-26,CT-198,Consumidor,Norte,Eletrônicos,Carregador Rápido,243.16,4,0.05,28.57
+OD-1153,10/02/2026,CT-112,Consumidor,Nordeste,Móveis,Cadeira Ergonômica,4311.88,9,0.1,560.54
+OD-1413,2025-10-11,CT-165,Home Office,Sul,Vestuário,Calça Jeans Premium,727.61,6,0.1,127.33
+OD-1434,2025-04-03,CT-175,Home Office,Sul,Eletrônicos,Carregador Rápido,391.31,7,0.0,58.7
+OD-1031,01/01/2024,CT-151,Corporativo,Nordeste,Vestuário,Camiseta Algodão,359.66,7,0.05,76.43
+OD-1351,2025-10-23,CT-119,Consumidor,Norte,Eletrônicos,Smartphone X,2611.91,2,0.0,391.79
+OD-1473,2024-05-24,CT-125,Corporativo,Sul,Vestuário,Calça Jeans Premium,1217.46,10,0.0,304.36
+OD-1184,10/03/2025,CT-193,Consumidor,Sul,Material de Escritório,Caderno Universitário,187.27,7,,74.91
+OD-1332,2025-09-14,CT-105,Consumidor,Sul,Eletrônicos,Fone Bluetooth,542.89,4,0.0,81.43
+OD-1386,2024-01-26,CT-139,Consumidor,Norte,Móveis,Mesa de Escritório,600.4,1,0.1,78.05
+OD-1130,2025-05-25,CT-208,Consumidor,Sudeste,Eletrônicos,Carregador Rápido,193.69,3,0.05,22.76
+OD-1312,2024-08-18,CT-192,Corporativo,Norte,Eletrônicos,Carregador Rápido,246.96,4,0.0,37.04
+OD-1211,2024-11-25,CT-137,Corporativo,Nordeste,Móveis,Mesa de Escritório,3942.84,7,0.15,374.57
+OD-1116,2024-05-25,CT-232,Home Office,Sudeste, Material de Escritório ,Caderno Universitário,103.73,4,0.0,41.49
+OD-1044,2025-11-15,CT-184,Corporativo,Centro-Oeste,Vestuário,Calça Jeans Premium,1200.28,10,0.0,300.07
+OD-1017,2025-06-14,CT-138,Corporativo,Centro-Oeste,Vestuário,Camiseta Algodão,489.74,10,0.0,
+OD-1156,02/05/2025,CT-231,Home Office,Norte,Material de Escritório,Caneta Gel 12un,189.73,10,0.1,58.82
+OD-1226,2025-10-24,CT-199,Consumidor,Sul,Eletrônicos,Carregador Rápido,57.1,1,0.05,6.71
+OD-1302,2025-05-20,CT-235,Consumidor,Nordeste,Eletrônicos,Fone Bluetooth,965.9,7,0.05,113.49
+OD-1058,2025-02-05,CT-154,Home Office,Norte,Material de Escritório,Papel A4 500fls,232.53,8,0.0,93.01
+OD-1016,2025-12-14,CT-188,Home Office,Sudeste,Eletrônicos,Notebook Pro,19028.12,5,0.0,2854.22
+OD-1029,2025-03-31,CT-164,Consumidor,Centro-Oeste,Vestuário,Jaqueta Corta-Vento,352.79,2,0.2,35.28
+OD-1419,16/11/2024,CT-112,Consumidor,Sul, Eletrônicos ,Notebook Pro,31798.15,9,,4769.72
+OD-1181,2024-08-16,CT-197,Consumidor,Norte,Vestuário,Tênis Casual,1221.75,6,,305.44
+OD-1458,2024-02-11,CT-200,Consumidor,Centro-Oeste,Eletrônicos,Notebook Pro,6761.13,2,0.05,794.43
+OD-1133,01/06/2025,CT-130,Corporativo,Centro-Oeste,Vestuário,Tênis Casual,858.17,4,0.05,182.36
+OD-1347,2026-01-10,CT-247,Consumidor,Norte,Eletrônicos,Monitor 4K,15905.44,9,0.0,2385.82
+OD-1436,2025-08-10,CT-121,Consumidor,Sul, Eletrônicos ,Monitor 4K,3486.98,2,0.2,69.74
+OD-1002,2025-10-18,CT-115,Consumidor,Centro-Oeste,Material de Escritório,Caneta Gel 12un,176.29,10,0.0,70.52
+OD-1060,2024-08-20,CT-144,Consumidor,Centro-Oeste, Eletrônicos ,Notebook Pro,3356.81,1,0.1,285.33
+OD-1296,14/09/2025,CT-139,Corporativo,Centro-Oeste,Móveis,Estante de Livros,990.41,3,0.0,198.08
+OD-1399,2024-05-19,CT-169,Consumidor,Centro-Oeste,Material de Escritório,Caneta Gel 12un,78.35,4,0.05,27.81
+OD-1344,2026-01-07,CT-214,Corporativo,Nordeste,Vestuário,Camiseta Algodão,357.86,7,0.0,89.46
+OD-1470,2025-07-28,CT-169,Consumidor,Norte, Eletrônicos ,Monitor 4K,15963.14,9,0.0,2394.47
+OD-1346,2024-11-10,CT-206,Corporativo,Centro-Oeste,Móveis,Cadeira Ergonômica,2461.96,6,0.05,406.22
+OD-1202,2026-01-28,CT-244,Corporativo,Sudeste,Material de Escritório,Organizador de Mesa,325.14,9,0.0,130.06
+OD-1342,2024-10-08,CT-244,Consumidor,Sudeste,Eletrônicos,Monitor 4K,6737.81,4,0.1,572.71
+OD-1246,2025-08-26,CT-219,Consumidor,Centro-Oeste, Móveis ,Estante de Livros,1760.46,5,0.2,105.63
+OD-1168,"Feb 09, 2026",CT-226,Corporativo,Sudeste,Móveis,Mesa de Escritório,4436.33,7,0.2,266.18
+OD-1325,2024-04-18,CT-115,Home Office,Sul,Móveis,Estante de Livros,2522.9,7,0.2,151.37
+OD-1491,2025-04-22,CT-241,Consumidor,Sul,Material de Escritório,Organizador de Mesa,164.06,4,0.0,65.62
+OD-1405,2025-07-03,CT-228,Consumidor,Sul, Material de Escritório ,Papel A4 500fls,136.08,4,0.05,48.31
+OD-1237,2024-04-02,CT-148,Home Office,Nordeste,Eletrônicos,Fone Bluetooth,290.51,2,0.05,34.13
+OD-1382,2025-03-16,CT-147,Home Office,Sul,Material de Escritório,Caderno Universitário,192.28,7,0.0,76.91
+OD-1286,18/03/2024,CT-124,Home Office,Centro-Oeste, Material de Escritório ,Papel A4 500fls,134.86,4,0.05,47.88
+OD-1074,2026-02-22,CT-165,Home Office,Nordeste,Material de Escritório,Organizador de Mesa,147.92,4,0.1,45.86
+OD-1475,2025-05-17,CT-153,Corporativo,Sul,Móveis,Estante de Livros,3557.7,10,0.0,711.54
+OD-1291,2025-06-09,CT-230,Consumidor,Nordeste,Móveis,Cadeira Ergonômica,1740.82,4,0.0,348.16
+OD-1420,2024-11-14,CT-195,Corporativo,Centro-Oeste,Eletrônicos,Notebook Pro,6322.44,2,0.2,126.45
+OD-1471,2024-05-22,CT-199,Consumidor,Sudeste,Móveis,Cadeira Ergonômica,1344.02,3,0.0,268.8
+OD-1197,2024-09-05,CT-229,Consumidor,Sudeste,Vestuário,Calça Jeans Premium,455.95,4,0.0,113.99
+OD-1336,2025-08-17,CT-216,Consumidor,Nordeste,Móveis,Luminária LED,752.37,10,,150.47
+OD-1278,2025-12-19,CT-167,Consumidor,Sudeste, Eletrônicos ,Notebook Pro,21275.89,6,0.0,3191.38
+OD-1045,2025-11-02,CT-192,Home Office,Centro-Oeste,Material de Escritório,Caneta Gel 12un,156.25,9,0.0,62.5
+OD-1276,2024-09-09,CT-199,Consumidor,Sul,Eletrônicos,Monitor 4K,11631.57,7,0.0,1744.74
+OD-1421,04/09/2025,CT-146,Home Office,Centro-Oeste,Eletrônicos,Notebook Pro,24900.44,7,0.1,2116.54
+OD-1328,2024-08-15,CT-108,Consumidor,Centro-Oeste,Material de Escritório,Caderno Universitário,69.77,3,0.0,27.91
+OD-1264,2024-08-01,CT-149,Corporativo,Nordeste,Eletrônicos,Fone Bluetooth,154.6,1,0.0,23.19
+OD-1147,2024-03-18,CT-159,Corporativo,Nordeste,Material de Escritório,Papel A4 500fls,103.87,3,0.0,41.55
+OD-1069,2025-10-17,CT-124,Corporativo,Centro-Oeste,Material de Escritório,Papel A4 500fls,115.33,4,,46.13
+OD-1464,"Jun 09, 2025",CT-228,Consumidor,Sul, Material de Escritório ,Caneta Gel 12un,177.55,10,0.2,39.06
+OD-1187,2025-12-04,CT-247,Consumidor,Nordeste,Material de Escritório,Organizador de Mesa,124.95,3,0.05,44.36
+OD-1319,30/07/2024,CT-225,Corporativo,Nordeste,Vestuário,Tênis Casual,1918.27,10,0.15,263.76
+OD-1137,2026-02-09,CT-229,Corporativo,Centro-Oeste,Material de Escritório,Caneta Gel 12un,34.8,2,0.1,10.79
+OD-1326,25/05/2024,CT-154,Home Office,Sudeste,Material de Escritório,Caneta Gel 12un,16.79,1,,6.72
+OD-1183,15/03/2024,CT-170,Corporativo,Sudeste,Eletrônicos,Smartphone X,3505.88,3,0.15,184.06
+OD-1316,2025-06-20,CT-186,Consumidor,Nordeste,Vestuário,Jaqueta Corta-Vento,557.99,3,0.0,139.5
+OD-1173,23/01/2025,CT-245,Consumidor,Sul,Vestuário,Jaqueta Corta-Vento,1470.61,9,0.0,367.65
+OD-1424,2026-02-15,CT-181,Consumidor,Norte,Móveis,Cadeira Ergonômica,1921.9,4,0.1,
+OD-1409,2025-11-03,CT-133,Consumidor,Centro-Oeste,Eletrônicos,Fone Bluetooth,1399.88,10,0.0,209.98
+OD-1143,2025-04-02,CT-203,Consumidor,Sul,Móveis,Mesa de Escritório,6385.72,10,0.05,1053.64
+OD-1385,26/01/2025,CT-185,Home Office,Norte,Vestuário,Tênis Casual,1401.04,7,0.15,192.64
+OD-1333,2026-02-14,CT-203,Consumidor,Nordeste,Móveis,Mesa de Escritório,5929.38,10,0.0,1185.88
+OD-1498,2025-02-14,CT-236,Corporativo,Nordeste,Material de Escritório,Caderno Universitário,189.36,7,0.0,
+OD-1483,2024-06-27,CT-233,Consumidor,Nordeste,Eletrônicos,Notebook Pro,26534.92,7,0.0,3980.24
+OD-1369,2025-07-01,CT-148,Corporativo,Sudeste,Móveis,Estante de Livros,2597.98,8,0.05,428.67
+OD-1145,2024-05-24,CT-162,Corporativo,Sudeste,Vestuário,Camiseta Algodão,50.11,1,0.0,12.53
+OD-1273,2024-09-13,CT-193,Corporativo,Centro-Oeste,Material de Escritório,Caneta Gel 12un,16.5,1,0.0,6.6
+OD-1435,2024-05-16,CT-220,Home Office,Norte,Móveis,Cadeira Ergonômica,841.62,2,0.05,138.87
+OD-1095,2024-07-19,CT-162,Corporativo,Norte,Vestuário,Calça Jeans Premium,1148.92,9,0.05,244.15
+OD-1388,2024-06-21,CT-133,Home Office,Nordeste, Móveis ,Cadeira Ergonômica,4216.82,9,0.05,695.78
+OD-1343,2024-11-15,CT-113,Consumidor,Sudeste,Móveis,Luminária LED,591.63,7,0.2,35.5
+OD-1490,2024-10-15,CT-107,Home Office,Sudeste,Móveis,Cadeira Ergonômica,427.76,1,0.0,85.55
+OD-1072,25/11/2024,CT-115,Consumidor,Centro-Oeste,Móveis,Estante de Livros,958.62,3,0.05,158.17
+OD-1324,"Aug 20, 2024",CT-170,Consumidor,Centro-Oeste,Material de Escritório,Papel A4 500fls,280.87,8,0.0,112.35
+OD-1193,2024-11-30,CT-228,Home Office,Sul,Móveis,Estante de Livros,3790.31,10,0.0,758.06
+OD-1075,2024-12-23,CT-189,Corporativo,Norte,Eletrônicos,Fone Bluetooth,147.64,1,0.05,17.35
+OD-1043,09/07/2025,CT-230,Corporativo,Nordeste,Móveis,Cadeira Ergonômica,1322.19,3,0.0,264.44
+OD-1158,03/02/2024,CT-201,Corporativo,Sudeste,Vestuário,Camiseta Algodão,369.63,7,0.0,92.41
+OD-1266,2024-02-25,CT-146,Consumidor,Nordeste,Material de Escritório,Caneta Gel 12un,16.52,1,0.2,3.63
+OD-1480,2025-10-07,CT-142,Consumidor,Norte,Eletrônicos,Smartphone X,5235.78,4,0.0,785.37
+OD-1441,2025-07-25,CT-196,Consumidor,Sudeste,Móveis,Luminária LED,255.39,3,0.0,51.08
+OD-1259,"Mar 13, 2024",CT-161,Home Office,Sul,Material de Escritório,Caneta Gel 12un,33.63,2,0.0,13.45
+OD-1180,2024-07-25,CT-244,Consumidor,Sul,Material de Escritório,Caderno Universitário,130.32,5,0.1,40.4
+OD-1330,2025-04-14,CT-160,Home Office,Sul,Vestuário,Calça Jeans Premium,751.98,6,0.0,188.0
+OD-1372,17/11/2024,CT-229,Consumidor,Sudeste,Eletrônicos,Fone Bluetooth,774.47,5,0.05,91.0
+OD-1207,07/03/2026,CT-102,Corporativo,Norte,Material de Escritório,Caneta Gel 12un,97.81,6,0.0,39.12
+OD-1119,2024-06-25,CT-136,Consumidor,Sul,Material de Escritório,Caderno Universitário,25.97,1,0.05,9.22
+OD-1018,2024-02-08,CT-230,Consumidor,Nordeste,Móveis,Luminária LED,154.96,2,0.05,25.57
+OD-1438,2025-05-27,CT-201,Consumidor,Centro-Oeste, Eletrônicos ,Monitor 4K,14193.65,8,0.0,
+OD-1015,2024-03-31,CT-102,Corporativo,Norte,Móveis,Luminária LED,85.51,1,0.1,11.12
+OD-1398,2024-04-22,CT-101,Consumidor,Sudeste,Eletrônicos,Monitor 4K,18192.81,10,0.0,2728.92
+OD-1396,2024-08-12,CT-247,Corporativo,Sudeste,Eletrônicos,Monitor 4K,17464.37,9,,2619.66
+OD-1445,"Sep 26, 2024",CT-113,Consumidor,Sudeste,Material de Escritório,Caderno Universitário,113.94,5,,45.58
+OD-1063,2024-05-22,CT-148,Consumidor,Sul,Móveis,Estante de Livros,2004.99,6,0.15,190.47
+OD-1315,05/05/2024,CT-132,Home Office,Nordeste, Móveis ,Estante de Livros,337.4,1,0.0,67.48
+OD-1124,2026-03-05,CT-166,Corporativo,Centro-Oeste,Móveis,Cadeira Ergonômica,3951.39,8,0.0,790.28
+OD-1064,2025-02-18,CT-115,Home Office,Sudeste,Eletrônicos,Notebook Pro,31777.3,9,0.05,3733.83
+OD-1150,2024-02-20,CT-213,Home Office,Nordeste,Móveis,Estante de Livros,718.82,2,,143.76
+OD-1214,2024-03-09,CT-247,Consumidor,Centro-Oeste,Material de Escritório,Caneta Gel 12un,51.0,3,0.05,18.1
+OD-1364,2026-01-28,CT-101,Consumidor,Norte,Material de Escritório,Papel A4 500fls,262.3,9,0.05,93.12
+OD-1215,2025-06-29,CT-148,Consumidor,Centro-Oeste,Eletrônicos,Fone Bluetooth,1227.91,8,0.05,144.28
+OD-1244,2024-01-05,CT-133,Corporativo,Sudeste, Vestuário ,Calça Jeans Premium,1044.63,8,0.1,182.81
+OD-1392,2025-02-13,CT-169,Consumidor,Sul,Material de Escritório,Papel A4 500fls,299.53,10,0.0,119.81
+OD-1496,2025-03-16,CT-129,Consumidor,Norte,Eletrônicos,Notebook Pro,17310.6,5,0.1,1471.4
+OD-1080,2024-05-01,CT-236,Consumidor,Centro-Oeste,Eletrônicos,Carregador Rápido,525.58,8,0.0,78.84
+OD-1253,2025-06-07,CT-127,Corporativo,Sudeste,Vestuário,Calça Jeans Premium,1288.71,10,0.0,322.18
+OD-1242,2025-02-06,CT-245,Corporativo,Nordeste, Material de Escritório ,Organizador de Mesa,249.73,6,0.0,99.89
+OD-1051,2026-02-02,CT-204,Home Office,Centro-Oeste,Material de Escritório,Papel A4 500fls,119.65,4,0.05,42.48
+OD-1208,2024-05-17,CT-229,Consumidor,Norte,Eletrônicos,Monitor 4K,1686.83,1,0.05,198.2
+OD-1329,2024-04-20,CT-153,Corporativo,Nordeste,Vestuário,Tênis Casual,410.41,2,0.1,71.82
+OD-1125,2025-11-19,CT-145,Corporativo,Norte, Móveis ,Luminária LED,294.36,4,0.0,58.87
+OD-1085,2025-11-28,CT-133,Home Office,Sul,Material de Escritório,Caderno Universitário,238.13,9,0.05,84.54
+OD-1415,2024-01-13,CT-143,Consumidor,Sul,Eletrônicos,Carregador Rápido,595.95,10,0.1,50.66
+OD-1036,2024-07-09,CT-232,Corporativo,Sul,Móveis,Estante de Livros,2583.59,7,0.0,516.72
+OD-1166,2025-03-13,CT-229,Home Office,Sudeste,Vestuário,Jaqueta Corta-Vento,888.66,5,,222.16
+OD-1425,2025-07-03,CT-190,Consumidor,Centro-Oeste,Móveis,Cadeira Ergonômica,2435.95,5,0.0,487.19
+OD-1268,2024-04-16,CT-106,Consumidor,Sudeste,Material de Escritório,Caneta Gel 12un,185.31,10,0.0,74.12
+OD-1066,2025-01-07,CT-182,Home Office,Nordeste,Eletrônicos,Carregador Rápido,448.62,7,0.1,38.13
+OD-1165,2025-11-04,CT-187,Home Office,Nordeste,Móveis,Estante de Livros,749.53,2,0.0,149.91
+OD-1070,2025-04-15,CT-224,Corporativo,Nordeste,Eletrônicos,Smartphone X,8350.14,7,0.05,981.14
+OD-1046,"Jun 21, 2024",CT-211,Home Office,Sudeste,Vestuário,Calça Jeans Premium,693.18,6,0.05,147.3
+OD-1098,2026-01-01,CT-204,Consumidor,Nordeste,Material de Escritório,Papel A4 500fls,87.0,3,0.1,26.97
+OD-1484,07/07/2025,CT-175,Consumidor,Centro-Oeste,Material de Escritório,Organizador de Mesa,82.94,2,0.0,33.18
+OD-1088,2025-06-23,CT-141,Consumidor,Norte,Móveis,Mesa de Escritório,3356.37,6,0.0,671.27
+OD-1042,27/02/2024,CT-153,Corporativo,Centro-Oeste,Material de Escritório,Papel A4 500fls,58.41,2,0.0,23.36
+OD-1452,2024-03-18,CT-162,Home Office,Sul, Material de Escritório ,Papel A4 500fls,63.29,2,0.05,22.47
+OD-1479,2024-07-16,CT-209,Corporativo,Sul,Material de Escritório,Caderno Universitário,53.34,2,0.0,21.34
+OD-1132,2025-02-08,CT-184,Consumidor,Nordeste,Móveis,Mesa de Escritório,3884.85,7,0.1,505.03
+OD-1053,2025-11-06,CT-102,Corporativo,Norte,Móveis,Mesa de Escritório,6217.17,10,0.0,1243.43
+OD-1389,2024-10-26,CT-201,Consumidor,Nordeste,Material de Escritório,Caderno Universitário,179.66,7,0.0,71.86
+OD-1121,2024-10-08,CT-171,Consumidor,Sul, Móveis ,Cadeira Ergonômica,879.16,2,0.0,175.83
+OD-1228,2024-04-04,CT-246,Corporativo,Sudeste,Vestuário,Calça Jeans Premium,1247.08,10,0.0,311.77
+OD-1030,2024-12-26,CT-231,Consumidor,Sudeste,Eletrônicos,Monitor 4K,16866.82,10,0.15,885.51
+OD-1108,2024-01-10,CT-115,Corporativo,Centro-Oeste,Eletrônicos,Monitor 4K,10658.73,6,0.1,905.99
+OD-1084,2025-10-09,CT-236,Consumidor,Sudeste,Vestuário,Camiseta Algodão,104.4,2,0.0,26.1
+OD-1076,2025-02-11,CT-171,Corporativo,Sul,Móveis,Luminária LED,374.76,5,0.0,
+OD-1152,2025-12-17,CT-152,Consumidor,Centro-Oeste, Material de Escritório ,Caderno Universitário,52.37,2,,20.95
+OD-1090,2024-02-10,CT-235,Corporativo,Nordeste,Móveis,Luminária LED,599.9,8,0.0,119.98
+OD-1013,2024-06-30,CT-231,Corporativo,Centro-Oeste,Material de Escritório,Papel A4 500fls,221.93,7,,88.77
+OD-1456,"Aug 23, 2025",CT-241,Consumidor,Centro-Oeste,Eletrônicos,Monitor 4K,15709.44,8,0.1,1335.3
+OD-1223,2026-01-21,CT-204,Corporativo,Centro-Oeste,Eletrônicos,Fone Bluetooth,545.44,4,0.0,81.82
+OD-1374,2026-01-01,CT-169,Consumidor,Centro-Oeste,Material de Escritório,Caderno Universitário,68.32,3,0.0,27.33
+OD-1022,2025-10-14,CT-189,Home Office,Sudeste,Móveis,Cadeira Ergonômica,2280.16,5,0.1,296.42
+OD-1383,2024-07-12,CT-194,Consumidor,Centro-Oeste,Vestuário,Tênis Casual,432.75,2,0.0,108.19
+OD-1100,2025-07-11,CT-201,Consumidor,Norte,Eletrônicos,Monitor 4K,9275.69,5,0.15,486.97
+OD-1139,2024-01-23,CT-127,Corporativo,Centro-Oeste,Vestuário,Camiseta Algodão,153.41,3,0.0,38.35
+OD-1169,2024-11-01,CT-230,Consumidor,Centro-Oeste,Material de Escritório,Papel A4 500fls,339.5,10,0.0,135.8
+OD-1019,2024-05-05,CT-121,Corporativo,Sul,Eletrônicos,Carregador Rápido,275.63,5,0.05,32.39
+OD-1032,21/01/2025,CT-235,Home Office,Sudeste,Material de Escritório,Caderno Universitário,237.78,10,0.0,95.11
+OD-1206,2024-05-12,CT-213,Consumidor,Centro-Oeste,Material de Escritório,Papel A4 500fls,169.09,5,0.0,67.64
+OD-1311,2024-09-29,CT-243,Corporativo,Centro-Oeste,Eletrônicos,Monitor 4K,1859.42,1,0.05,218.48
+OD-1448,2025-12-25,CT-205,Consumidor,Centro-Oeste,Eletrônicos,Fone Bluetooth,890.19,6,0.2,17.8
+OD-1142,2025-12-14,CT-103,Consumidor,Norte,Eletrônicos,Fone Bluetooth,992.47,7,0.05,116.62
+OD-1113,2024-04-28,CT-196,Corporativo,Sul,Eletrônicos,Monitor 4K,11732.59,6,0.0,1759.89
+OD-1478,2024-02-08,CT-139,Corporativo,Nordeste,Eletrônicos,Smartphone X,1098.58,1,0.05,129.08
+OD-1306,2025-09-22,CT-165,Corporativo,Centro-Oeste, Eletrônicos ,Monitor 4K,3272.4,2,0.1,278.15
+OD-1129,2024-04-08,CT-128,Consumidor,Nordeste,Eletrônicos,Carregador Rápido,423.77,7,0.0,63.57
+OD-1144,2024-03-23,CT-237,Home Office,Centro-Oeste,Móveis,Cadeira Ergonômica,3289.01,7,0.0,657.8
+OD-1341,2025-11-22,CT-152,Consumidor,Sudeste,Eletrônicos,Fone Bluetooth,1236.71,8,,185.51
+OD-1300,2025-05-22,CT-113,Consumidor,Centro-Oeste, Eletrônicos ,Notebook Pro,9805.03,3,0.0,1470.75
+OD-1231,2024-12-25,CT-182,Consumidor,Centro-Oeste,Material de Escritório,Papel A4 500fls,231.99,8,,92.8
+OD-1089,01/01/2026,CT-128,Consumidor,Nordeste,Material de Escritório,Caneta Gel 12un,137.73,8,0.0,55.09
+OD-1401,2024-01-01,CT-116,Corporativo,Sudeste,Material de Escritório,Caneta Gel 12un,162.97,10,0.0,65.19
+OD-1061,31/10/2024,CT-114,Corporativo,Sudeste,Eletrônicos,Carregador Rápido,543.27,9,0.0,81.49
+OD-1230,2025-06-03,CT-210,Corporativo,Sul,Móveis,Luminária LED,591.0,7,0.1,76.83
+OD-1054,2024-08-14,CT-234,Home Office,Norte,Vestuário,Camiseta Algodão,194.86,4,0.0,48.72
+OD-1127,01/09/2025,CT-234,Home Office,Norte,Móveis,Cadeira Ergonômica,1631.14,4,0.2,97.87
+OD-1454,2025-07-27,CT-212,Consumidor,Nordeste,Material de Escritório,Caderno Universitário,69.51,3,,27.8
+OD-1481,2025-08-01,CT-242,Home Office,Sudeste,Eletrônicos,Monitor 4K,13375.41,8,0.1,1136.91
+OD-1191,2024-04-07,CT-196,Home Office,Norte,Material de Escritório,Caderno Universitário,142.41,6,0.0,56.96
+OD-1497,2024-04-06,CT-183,Consumidor,Nordeste,Móveis,Luminária LED,238.78,3,0.1,31.04
+OD-1431,23/08/2024,CT-235,Consumidor,Centro-Oeste,Material de Escritório,Caderno Universitário,166.47,7,0.15,44.11
+OD-1442,2024-12-14,CT-137,Consumidor,Norte, Móveis ,Estante de Livros,672.45,2,0.2,40.35
+OD-1397,2025-06-15,CT-196,Consumidor,Nordeste,Material de Escritório,Papel A4 500fls,171.92,5,0.0,68.77
+OD-1134,2025-04-20,CT-175,Corporativo,Sudeste,Eletrônicos,Fone Bluetooth,456.96,3,0.15,23.99
+OD-1079,"Jan 08, 2024",CT-229,Consumidor,Centro-Oeste,Móveis,Mesa de Escritório,5671.49,9,0.05,935.8
+OD-1195,2025-03-22,CT-182,Corporativo,Sul,Eletrônicos,Smartphone X,9900.97,8,0.2,198.02
+OD-1414,2024-06-20,CT-174,Consumidor,Sudeste,Vestuário,Camiseta Algodão,91.5,2,0.0,22.88
+OD-1179,2024-10-29,CT-239,Consumidor,Nordeste,Eletrônicos,Monitor 4K,4916.05,3,0.0,737.41
+OD-1267,2024-12-15,CT-217,Consumidor,Sudeste,Vestuário,Calça Jeans Premium,978.28,8,0.0,244.57
+OD-1252,2024-08-20,CT-127,Consumidor,Sul,Móveis,Luminária LED,582.24,7,0.0,116.45
+OD-1293,2024-11-07,CT-204,Home Office,Sudeste, Móveis ,Mesa de Escritório,6106.02,10,0.0,1221.2
+OD-1055,2025-10-20,CT-154,Home Office,Centro-Oeste,Eletrônicos,Carregador Rápido,119.42,2,0.0,17.91
+OD-1417,2025-10-03,CT-129,Consumidor,Norte,Material de Escritório,Caneta Gel 12un,82.79,5,0.1,25.66
+OD-1217,2024-02-22,CT-248,Consumidor,Norte,Vestuário,Camiseta Algodão,325.0,7,0.05,69.06
+OD-1460,2025-02-05,CT-247,Corporativo,Norte,Material de Escritório,Caderno Universitário,74.62,3,0.0,29.85
+OD-1416,"Jun 16, 2024",CT-144,Consumidor,Norte,Móveis,Luminária LED,152.4,2,,30.48
+OD-1163,2024-06-02,CT-230,Consumidor,Sudeste,Eletrônicos,Fone Bluetooth,288.12,2,0.1,24.49
+OD-1486,2025-05-14,CT-176,Consumidor,Centro-Oeste,Material de Escritório,Papel A4 500fls,136.23,4,0.0,54.49
+OD-1010,2025-02-18,CT-217,Consumidor,Norte,Eletrônicos,Monitor 4K,3694.72,2,0.1,314.05
+OD-1216,2026-02-12,CT-231,Corporativo,Norte,Material de Escritório,Organizador de Mesa,77.24,2,0.05,
+OD-1354,2025-08-04,CT-190,Consumidor,Norte,Eletrônicos,Notebook Pro,21376.54,6,0.0,3206.48
+OD-1176,2025-02-04,CT-169,Corporativo,Nordeste,Eletrônicos,Carregador Rápido,230.17,4,0.15,12.08
+OD-1011,2026-02-25,CT-200,Consumidor,Sul,Vestuário,Jaqueta Corta-Vento,1238.08,7,0.0,309.52
+OD-1194,2025-03-10,CT-139,Consumidor,Norte,Eletrônicos,Carregador Rápido,124.91,2,0.0,18.74
+OD-1232,26/11/2025,CT-154,Corporativo,Sudeste,Eletrônicos,Notebook Pro,26325.96,8,0.05,3093.3
+OD-1009,2024-09-08,CT-188,Consumidor,Norte,Eletrônicos,Smartphone X,2393.6,2,0.15,125.66
+OD-1331,2024-02-03,CT-208,Home Office,Sul,Material de Escritório,Caderno Universitário,132.15,5,0.05,46.91
+OD-1238,02/11/2025,CT-248,Consumidor,Sudeste,Vestuário,Camiseta Algodão,97.25,2,0.15,13.37
+OD-1275,2025-09-16,CT-195,Home Office,Norte,Material de Escritório,Papel A4 500fls,245.57,8,0.15,65.08
+OD-1064,2025-02-18,CT-115,Home Office,Sudeste,Eletrônicos,Notebook Pro,31777.3,9,0.05,3733.83
+OD-1140,2025-07-18,CT-221,Consumidor,Nordeste,Móveis,Mesa de Escritório,1081.46,2,0.0,216.29
+OD-1120,2026-02-17,CT-113,Corporativo,Sudeste,Móveis,Mesa de Escritório,4466.05,7,0.0,893.21
+OD-1428,2024-04-04,CT-190,Consumidor,Norte,Eletrônicos,Carregador Rápido,185.05,3,0.15,9.72
+OD-1247,"Nov 12, 2025",CT-122,Consumidor,Norte,Eletrônicos,Fone Bluetooth,1111.12,8,0.0,166.67
+OD-1390,2025-10-06,CT-123,Consumidor,Sudeste,Vestuário,Tênis Casual,821.7,4,0.0,205.42
+OD-1265,2024-08-26,CT-117,Consumidor,Nordeste,Material de Escritório,Caneta Gel 12un,78.67,4,0.0,31.47
+OD-1461,2024-10-22,CT-176,Consumidor,Nordeste,Material de Escritório,Caneta Gel 12un,120.87,7,0.15,32.03
+OD-1185,2024-04-12,CT-103,Home Office,Nordeste,Eletrônicos,Carregador Rápido,62.41,1,0.1,5.3
+OD-1204,2025-07-16,CT-212,Corporativo,Nordeste,Material de Escritório,Caneta Gel 12un,131.57,8,0.0,52.63
+OD-1112,2024-01-05,CT-163,Corporativo,Norte,Material de Escritório,Papel A4 500fls,205.6,6,0.0,82.24
+OD-1433,"Jan 10, 2025",CT-214,Consumidor,Centro-Oeste,Vestuário,Jaqueta Corta-Vento,561.29,3,0.0,140.32
+OD-1430,2024-11-13,CT-205,Consumidor,Nordeste,Móveis,Mesa de Escritório,4879.97,8,0.15,463.6
+OD-1482,2025-01-25,CT-222,Consumidor,Sudeste,Eletrônicos,Smartphone X,11542.71,10,0.0,1731.41
+OD-1307,2025-04-29,CT-108,Consumidor,Sul,Vestuário,Jaqueta Corta-Vento,1541.78,9,0.0,385.44
+OD-1472,26/10/2025,CT-240,Consumidor,Nordeste,Material de Escritório,Papel A4 500fls,28.88,1,0.0,11.55
+OD-1160,2024-04-04,CT-181,Home Office,Centro-Oeste,Material de Escritório,Organizador de Mesa,233.55,6,0.0,93.42
+OD-1357,"May 30, 2025",CT-123,Corporativo,Norte,Material de Escritório,Caneta Gel 12un,174.3,9,0.0,69.72
+OD-1368,2024-08-16,CT-218,Corporativo,Sudeste,Material de Escritório,Caderno Universitário,79.4,3,0.2,17.47
+OD-1078,2025-01-07,CT-188,Consumidor,Norte,Vestuário,Camiseta Algodão,185.34,4,0.0,46.34
+OD-1033,2024-12-13,CT-121,Corporativo,Sudeste,Material de Escritório,Organizador de Mesa,284.85,7,0.0,113.94
+OD-1295,2024-01-03,CT-143,Corporativo,Norte,Eletrônicos,Monitor 4K,11872.04,7,,1780.81
+OD-1218,2025-03-25,CT-154,Home Office,Sudeste,Vestuário,Camiseta Algodão,51.11,1,0.15,7.03
+OD-1380,2025-05-18,CT-129,Consumidor,Centro-Oeste,Móveis,Luminária LED,584.79,8,0.2,35.09
+OD-1488,2025-09-14,CT-174,Corporativo,Nordeste,Móveis,Mesa de Escritório,658.27,1,0.05,108.61
+OD-1037,2025-05-22,CT-189,Consumidor,Centro-Oeste,Móveis,Mesa de Escritório,639.82,1,,127.96
+OD-1340,"Jun 01, 2025",CT-155,Home Office,Norte,Material de Escritório,Organizador de Mesa,334.26,9,0.0,133.7
+OD-1048,2024-03-20,CT-135,Consumidor,Centro-Oeste,Eletrônicos,Carregador Rápido,114.67,2,,
+OD-1499,2024-10-15,CT-209,Consumidor,Norte,Material de Escritório,Caneta Gel 12un,155.0,8,0.2,34.1
+OD-1362,2025-10-25,CT-158,Home Office,Sudeste,Material de Escritório,Organizador de Mesa,130.95,3,0.0,52.38
+OD-1294,2024-01-07,CT-237,Consumidor,Nordeste,Eletrônicos,Carregador Rápido,56.66,1,0.0,8.5
+OD-1007,2024-05-11,CT-222,Home Office,Nordeste,Material de Escritório,Papel A4 500fls,313.81,10,0.0,125.52
+OD-1175,2026-02-01,CT-124,Consumidor,Centro-Oeste,Vestuário,Jaqueta Corta-Vento,1254.04,7,0.0,313.51
+OD-1138,2025-03-12,CT-221,Home Office,Nordeste,Vestuário,Calça Jeans Premium,116.2,1,,
+OD-1277,2025-11-22,CT-216,Corporativo,Sul,Vestuário,Camiseta Algodão,262.26,5,0.0,65.56
+OD-1301,2024-09-30,CT-160,Corporativo,Centro-Oeste,Material de Escritório,Papel A4 500fls,315.36,10,0.0,126.14
+OD-1151,2025-11-15,CT-162,Home Office,Sudeste,Eletrônicos,Carregador Rápido,579.93,9,0.1,49.29
+OD-1462,2024-10-21,CT-109,Consumidor,Sudeste,Eletrônicos,Carregador Rápido,374.95,6,0.0,56.24
+OD-1251,06/10/2025,CT-108,Corporativo,Centro-Oeste,Material de Escritório,Caderno Universitário,234.76,10,0.0,93.9
+OD-1439,2024-10-22,CT-199,Corporativo,Centro-Oeste,Material de Escritório,Caderno Universitário,237.54,10,0.05,84.33
+OD-1418,2025-08-18,CT-241,Corporativo,Sul,Vestuário,Jaqueta Corta-Vento,560.0,3,0.0,140.0
+OD-1350,2025-03-12,CT-163,Consumidor,Norte,Material de Escritório,Caderno Universitário,147.57,6,0.05,52.39
+OD-1083,"Mar 30, 2024",CT-181,Home Office,Sul,Material de Escritório,Caderno Universitário,128.85,5,0.0,51.54
+OD-1391,2024-11-21,CT-110,Consumidor,Nordeste,Vestuário,Camiseta Algodão,506.44,10,0.15,69.64
+OD-1339,04/09/2025,CT-199,Consumidor,Sudeste,Material de Escritório,Caderno Universitário,244.66,9,0.2,53.83
+OD-1459,29/03/2024,CT-240,Home Office,Norte,Vestuário,Calça Jeans Premium,513.77,4,0.0,128.44
+OD-1086,2024-11-11,CT-223,Home Office,Sudeste,Vestuário,Camiseta Algodão,91.95,2,0.15,12.64
+OD-1136,2025-10-06,CT-192,Consumidor,Norte,Eletrônicos,Fone Bluetooth,949.01,7,0.0,142.35
+OD-1097,2025-04-05,CT-199,Consumidor,Sul,Vestuário,Camiseta Algodão,471.57,9,0.0,117.89
+OD-1297,"Jan 19, 2026",CT-126,Consumidor,Sul,Material de Escritório,Organizador de Mesa,213.09,5,0.05,75.65
+OD-1056,2025-06-15,CT-206,Consumidor,Sudeste,Material de Escritório,Caderno Universitário,233.47,9,0.0,93.39
+OD-1263,2024-04-30,CT-135,Consumidor,Norte,Material de Escritório,Caneta Gel 12un,54.27,3,0.1,16.82
+OD-1272,2024-01-26,CT-124,Corporativo,Sudeste,Material de Escritório,Caneta Gel 12un,130.0,7,0.15,34.45
+OD-1451,2025-01-13,CT-213,Consumidor,Centro-Oeste,Eletrônicos,Carregador Rápido,445.34,8,,66.8
+OD-1287,2024-08-03,CT-214,Corporativo,Nordeste,Material de Escritório,Caneta Gel 12un,57.55,3,0.1,17.84
+OD-1039,2025-02-12,CT-114,Consumidor,Centro-Oeste,Material de Escritório,Caneta Gel 12un,196.47,10,0.0,78.59
+OD-1288,20/01/2025,CT-132,Home Office,Centro-Oeste,Eletrônicos,Fone Bluetooth,950.99,6,0.0,
+OD-1234,"Jul 13, 2024",CT-133,Consumidor,Norte,Vestuário,Camiseta Algodão,54.61,1,0.15,7.51
+OD-1256,2025-06-29,CT-197,Consumidor,Norte,Material de Escritório,Caderno Universitário,251.1,10,0.05,89.14
+OD-1154,2025-03-21,CT-139,Consumidor,Sudeste,Material de Escritório,Caneta Gel 12un,78.46,4,0.0,31.38
+OD-1485,2025-03-23,CT-246,Consumidor,Sudeste,Eletrônicos,Carregador Rápido,601.59,10,0.0,90.24
+OD-1411,2024-01-10,CT-112,Consumidor,Centro-Oeste,Eletrônicos,Carregador Rápido,506.34,8,0.0,75.95
+OD-1466,21/11/2025,CT-183,Consumidor,Sul,Eletrônicos,Fone Bluetooth,695.03,5,0.0,104.25
+OD-1376,2024-01-04,CT-193,Corporativo,Sudeste,Material de Escritório,Organizador de Mesa,368.85,10,0.0,147.54
+OD-1005,2024-08-04,CT-121,Corporativo,Nordeste, Móveis ,Estante de Livros,638.45,2,0.0,127.69
+OD-1110,2024-08-29,CT-142,Consumidor,Nordeste,Móveis,Mesa de Escritório,4606.43,7,0.0,921.29
+OD-1352,2024-10-03,CT-192,Consumidor,Nordeste,Material de Escritório,Caderno Universitário,23.48,1,0.0,9.39
+OD-1245,2025-04-10,CT-215,Home Office,Norte,Móveis,Cadeira Ergonômica,1364.01,3,0.1,177.32
+OD-1395,2025-12-24,CT-238,Corporativo,Sul,Vestuário,Jaqueta Corta-Vento,908.4,5,0.15,124.9
+OD-1199,2025-04-25,CT-142,Corporativo,Nordeste,Eletrônicos,Smartphone X,1132.92,1,0.1,96.3
+OD-1182,2025-07-31,CT-224,Corporativo,Sudeste,Material de Escritório,Organizador de Mesa,398.55,10,0.0,159.42
+OD-1235,2024-07-13,CT-242,Consumidor,Sul, Eletrônicos ,Monitor 4K,1894.43,1,0.0,284.16
+OD-1186,2025-02-25,CT-248,Corporativo,Centro-Oeste,Móveis,Luminária LED,144.51,2,0.1,18.79
+OD-1201,2025-06-25,CT-107,Consumidor,Centro-Oeste,Vestuário,Tênis Casual,201.88,1,0.05,42.9
+OD-1224,2024-04-20,CT-184,Consumidor,Centro-Oeste,Vestuário,Camiseta Algodão,105.46,2,,26.36
+OD-1348,2025-01-11,CT-245,Corporativo,Sudeste,Material de Escritório,Caderno Universitário,124.29,5,0.05,44.12
+OD-1384,15/12/2025,CT-244,Corporativo,Centro-Oeste,Eletrônicos,Fone Bluetooth,812.38,6,0.05,95.45
+OD-1447,2024-10-17,CT-199,Consumidor,Centro-Oeste,Móveis,Luminária LED,243.67,3,0.0,48.73
+OD-1200,2024-11-30,CT-199,Consumidor,Sul,Eletrônicos,Notebook Pro,11319.12,3,0.0,1697.87
+OD-1400,2025-07-12,CT-104,Consumidor,Sul,Vestuário,Camiseta Algodão,419.92,8,0.0,104.98
+OD-1221,2026-01-16,CT-175,Home Office,Sul,Móveis,Mesa de Escritório,5162.26,8,0.0,1032.45
+OD-1494,2024-06-05,CT-222,Corporativo,Sul,Vestuário,Calça Jeans Premium,338.67,3,0.0,84.67
+OD-1220,2024-05-05,CT-216,Consumidor,Norte,Vestuário,Tênis Casual,638.47,3,0.0,
+OD-1250,2025-05-27,CT-151,Consumidor,Sudeste,Eletrônicos,Smartphone X,2480.26,2,0.1,210.82
+OD-1106,2025-12-09,CT-127,Consumidor,Norte,Móveis,Luminária LED,76.56,1,0.0,15.31
+OD-1261,2024-09-05,CT-247,Corporativo,Sudeste,Vestuário,Tênis Casual,210.94,1,0.15,29.0
+OD-1309,2025-12-14,CT-242,Home Office,Sul, Material de Escritório ,Caneta Gel 12un,176.64,10,0.0,70.66
+OD-1203,2024-04-15,CT-190,Corporativo,Sul,Móveis,Cadeira Ergonômica,3363.25,7,0.1,437.22
+OD-1257,2024-03-18,CT-128,Corporativo,Centro-Oeste, Material de Escritório ,Papel A4 500fls,32.35,1,0.0,12.94
+OD-1104,16/08/2025,CT-242,Home Office,Norte,Material de Escritório,Organizador de Mesa,147.09,4,,58.84
+OD-1356,15/09/2025,CT-162,Consumidor,Nordeste,Material de Escritório,Papel A4 500fls,310.24,9,0.0,124.1
+OD-1258,30/12/2025,CT-211,Consumidor,Sul,Vestuário,Jaqueta Corta-Vento,1135.62,7,0.1,198.73
+OD-1021,21/06/2024,CT-122,Corporativo,Norte,Vestuário,Camiseta Algodão,253.86,5,0.0,63.46
+OD-1476,07/09/2025,CT-244,Consumidor,Centro-Oeste,Eletrônicos,Monitor 4K,10158.16,6,0.2,203.16
+OD-1338,28/02/2025,CT-147,Corporativo,Norte,Material de Escritório,Caderno Universitário,113.72,5,,45.49
+OD-1393,27/04/2024,CT-200,Corporativo,Nordeste, Material de Escritório ,Organizador de Mesa,418.02,10,0.0,167.21
+OD-1443,2026-02-17,CT-112,Corporativo,Nordeste,Material de Escritório,Caderno Universitário,77.7,3,0.05,27.58
+OD-1492,2024-08-18,CT-237,Consumidor,Norte,Material de Escritório,Caneta Gel 12un,194.74,10,0.0,77.9
+OD-1122,2024-03-03,CT-186,Consumidor,Centro-Oeste,Eletrônicos,Notebook Pro,3518.07,1,0.05,413.37
+OD-1212,2026-02-23,CT-109,Consumidor,Sudeste,Vestuário,Camiseta Algodão,245.55,5,0.1,42.97
+OD-1495,2025-07-03,CT-105,Consumidor,Centro-Oeste,Móveis,Luminária LED,255.4,3,,51.08
+OD-1254,11/12/2024,CT-121,Corporativo,Centro-Oeste,Material de Escritório,Organizador de Mesa,191.15,5,0.0,76.46
+OD-1146,2024-03-25,CT-151,Consumidor,Centro-Oeste,Eletrônicos,Smartphone X,9898.67,9,0.15,519.68
+OD-1323,2024-03-07,CT-149,Home Office,Sul,Material de Escritório,Organizador de Mesa,328.47,9,0.0,131.39
+OD-1190,2024-11-01,CT-248,Corporativo,Centro-Oeste,Vestuário,Jaqueta Corta-Vento,181.76,1,0.0,45.44
+OD-1073,2026-01-05,CT-145,Corporativo,Centro-Oeste,Material de Escritório,Caneta Gel 12un,53.98,3,,21.59
+OD-1103,2025-01-24,CT-105,Home Office,Nordeste,Eletrônicos,Fone Bluetooth,1441.65,9,0.2,28.83
+OD-1026,2024-02-27,CT-151,Consumidor,Norte, Móveis ,Mesa de Escritório,1206.39,2,0.0,241.28
+OD-1335,2026-01-17,CT-209,Consumidor,Norte,Eletrônicos,Smartphone X,8883.41,7,0.0,1332.51
+OD-1334,2025-01-03,CT-106,Corporativo,Sudeste,Eletrônicos,Notebook Pro,17199.49,5,0.2,343.99
+OD-1118,2024-08-26,CT-129,Corporativo,Sul,Material de Escritório,Organizador de Mesa,74.22,2,0.0,29.69
+OD-1038,2025-01-03,CT-160,Corporativo,Norte,Eletrônicos,Fone Bluetooth,1449.9,10,0.05,170.36
+OD-1432,"Nov 29, 2024",CT-158,Consumidor,Sul,Material de Escritório,Papel A4 500fls,242.36,7,0.1,75.13
+OD-1463,2025-09-07,CT-128,Consumidor,Norte,Material de Escritório,Papel A4 500fls,32.94,1,0.0,
+OD-1107,2025-03-25,CT-237,Home Office,Nordeste,Material de Escritório,Papel A4 500fls,33.52,1,,13.41
+OD-1077,2025-10-29,CT-109,Corporativo,Nordeste,Eletrônicos,Monitor 4K,5875.93,3,0.0,881.39
+OD-1371,2024-01-06,CT-217,Consumidor,Centro-Oeste,Vestuário,Calça Jeans Premium,1009.06,9,0.0,
+OD-1280,30/09/2025,CT-118,Consumidor,Sul,Vestuário,Calça Jeans Premium,231.94,2,0.15,31.89
+OD-1400,2025-07-12,CT-104,Consumidor,Sul,Vestuário,Camiseta Algodão,419.92,8,0.0,104.98
+OD-1172,2024-08-23,CT-223,Corporativo,Norte,Vestuário,Calça Jeans Premium,469.09,4,0.05,99.68
+OD-1429,2025-08-03,CT-215,Consumidor,Sudeste,Material de Escritório,Caneta Gel 12un,37.75,2,,15.1
+OD-1040,2024-04-26,CT-109,Home Office,Centro-Oeste, Material de Escritório ,Caderno Universitário,24.0,1,0.2,5.28
+OD-1493,2025-02-23,CT-127,Home Office,Norte,Eletrônicos,Smartphone X,9605.52,8,0.1,816.47
+OD-1114,2025-01-08,CT-152,Consumidor,Nordeste,Eletrônicos,Smartphone X,3564.43,3,0.15,187.13
+OD-1303,2026-01-08,CT-157,Consumidor,Centro-Oeste,Móveis,Estante de Livros,1842.88,5,0.0,368.58
+OD-1008,2024-03-10,CT-175,Corporativo,Norte,Vestuário,Camiseta Algodão,394.04,8,0.0,98.51
+OD-1057,2025-03-16,CT-104,Home Office,Sul,Eletrônicos,Monitor 4K,15537.94,8,0.05,1825.71
+OD-1402,2024-03-30,CT-124,Consumidor,Centro-Oeste,Móveis,Estante de Livros,3517.53,10,0.1,457.28
+OD-1361,2025-08-29,CT-229,Corporativo,Nordeste,Móveis,Estante de Livros,1054.92,3,0.15,100.22
+OD-1289,2024-12-30,CT-186,Consumidor,Nordeste,Material de Escritório,Caderno Universitário,211.41,9,0.0,84.56
+OD-1365,2024-08-30,CT-134,Home Office,Nordeste, Móveis ,Luminária LED,733.48,10,0.05,121.02
+OD-1188,2026-02-02,CT-190,Consumidor,Nordeste,Móveis,Estante de Livros,1028.28,3,0.0,205.66
+OD-1117,2024-08-11,CT-243,Corporativo,Sudeste,Móveis,Estante de Livros,343.3,1,0.0,68.66
+OD-1262,16/02/2024,CT-104,Consumidor,Nordeste,Material de Escritório,Caneta Gel 12un,116.56,7,0.1,36.13
+OD-1450,2024-01-05,CT-117,Home Office,Norte,Material de Escritório,Organizador de Mesa,170.8,4,0.0,68.32
+OD-1359,2025-03-21,CT-237,Consumidor,Norte,Material de Escritório,Papel A4 500fls,218.89,7,0.0,87.56
+OD-1137,2026-02-09,CT-229,Corporativo,Centro-Oeste,Material de Escritório,Caneta Gel 12un,34.8,2,0.1,10.79
+OD-1238,02/11/2025,CT-248,Consumidor,Sudeste,Vestuário,Camiseta Algodão,97.25,2,0.15,13.37
+OD-1239,2024-03-01,CT-228,Corporativo,Sudeste, Material de Escritório ,Organizador de Mesa,229.21,6,0.0,91.68
+OD-1082,2025-11-06,CT-239,Corporativo,Nordeste,Móveis,Mesa de Escritório,2221.43,4,0.15,211.04
+OD-1403,2025-10-15,CT-180,Consumidor,Sul,Eletrônicos,Carregador Rápido,524.66,9,0.0,78.7
+OD-1249,2025-02-08,CT-209,Corporativo,Centro-Oeste,Material de Escritório,Papel A4 500fls,205.29,7,0.0,82.12
+OD-1366,2025-06-26,CT-196,Home Office,Sudeste,Vestuário,Calça Jeans Premium,122.35,1,0.0,30.59
+OD-1222,2024-02-12,CT-213,Consumidor,Norte,Eletrônicos,Monitor 4K,10656.3,6,0.2,213.13
+OD-1457,2026-01-18,CT-119,Consumidor,Norte,Móveis,Estante de Livros,1469.05,4,0.0,293.81
+OD-1322,2025-01-28,CT-186,Home Office,Centro-Oeste,Material de Escritório,Caderno Universitário,25.88,1,0.0,10.35
+OD-1196,2024-11-03,CT-204,Consumidor,Centro-Oeste,Eletrônicos,Fone Bluetooth,461.13,3,0.05,
+OD-1122,2024-03-03,CT-186,Consumidor,Centro-Oeste,Eletrônicos,Notebook Pro,3518.07,1,0.05,413.37
+OD-1229,2025-01-08,CT-228,Corporativo,Nordeste,Material de Escritório,Caneta Gel 12un,113.36,6,0.0,45.34
+OD-1467,2025-09-28,CT-211,Corporativo,Norte,Móveis,Luminária LED,493.35,6,0.0,98.67
+OD-1408,2024-09-15,CT-224,Consumidor,Sul,Material de Escritório,Caneta Gel 12un,108.6,6,,43.44
+OD-1111,2024-09-07,CT-224,Home Office,Nordeste, Eletrônicos ,Notebook Pro,38300.73,10,0.0,5745.11
+OD-1363,2024-05-16,CT-222,Consumidor,Centro-Oeste,Móveis,Estante de Livros,1128.85,3,0.0,225.77
+OD-1131,2025-01-19,CT-144,Home Office,Norte,Eletrônicos,Carregador Rápido,259.53,4,0.0,38.93
+OD-1241,2024-02-20,CT-235,Home Office,Centro-Oeste,Vestuário,Calça Jeans Premium,1047.08,8,0.15,143.97
+OD-1052,2024-08-16,CT-232,Consumidor,Nordeste,Material de Escritório,Papel A4 500fls,204.58,6,0.1,
+OD-1358,15/12/2024,CT-227,Consumidor,Centro-Oeste,Eletrônicos,Monitor 4K,14158.84,8,0.0,
+OD-1189,07/01/2026,CT-247,Home Office,Sudeste,Móveis,Estante de Livros,1599.81,5,0.0,319.96
+OD-1422,2024-11-24,CT-230,Consumidor,Sul,Material de Escritório,Caderno Universitário,248.82,10,0.05,88.33
+OD-1091,2026-01-09,CT-172,Consumidor,Sul,Eletrônicos,Smartphone X,11874.25,10,0.05,1395.22
+OD-1423,2026-02-23,CT-135,Consumidor,Nordeste,Material de Escritório,Caneta Gel 12un,195.99,10,0.2,43.12
+OD-1126,2025-04-05,CT-162,Consumidor,Sul,Móveis,Cadeira Ergonômica,2400.97,5,0.0,480.19
+OD-1006,2024-10-27,CT-203,Corporativo,Norte,Eletrônicos,Carregador Rápido,414.43,7,0.0,
+OD-1225,2026-01-30,CT-212,Consumidor,Sul,Material de Escritório,Caderno Universitário,92.81,4,0.05,32.95
+OD-1292,2025-11-29,CT-117,Consumidor,Sul,Vestuário,Camiseta Algodão,442.77,9,,110.69
+OD-1440,2024-11-15,CT-136,Home Office,Centro-Oeste,Móveis,Estante de Livros,1413.25,4,0.15,134.26
+OD-1281,2024-02-25,CT-125,Consumidor,Nordeste,Eletrônicos,Fone Bluetooth,154.45,1,0.0,23.17
+OD-1174,2026-01-03,CT-138,Corporativo,Nordeste,Eletrônicos,Monitor 4K,9030.06,5,0.1,767.56
+OD-1062,2025-06-09,CT-195,Corporativo,Centro-Oeste,Eletrônicos,Monitor 4K,3332.23,2,0.0,499.83
+OD-1102,2024-09-09,CT-101,Home Office,Nordeste,Móveis,Luminária LED,289.15,4,,57.83
+OD-1327,2024-04-20,CT-201,Corporativo,Sudeste,Material de Escritório,Organizador de Mesa,110.8,3,0.0,44.32
+OD-1285,2024-01-28,CT-204,Consumidor,Sul,Material de Escritório,Caneta Gel 12un,95.06,5,0.0,38.02
+OD-1353,10/12/2025,CT-158,Home Office,Sudeste,Vestuário,Tênis Casual,1299.13,6,0.05,276.07
+OD-1304,2024-01-15,CT-136,Home Office,Nordeste,Eletrônicos,Fone Bluetooth,465.88,3,0.05,54.74
+OD-1260,04/03/2026,CT-148,Consumidor,Centro-Oeste,Material de Escritório,Caderno Universitário,113.76,5,0.0,45.5
+OD-1099,2026-01-21,CT-135,Corporativo,Sudeste,Eletrônicos,Smartphone X,8779.53,8,0.0,1316.93
+OD-1474,"Aug 12, 2024",CT-223,Consumidor,Nordeste,Móveis,Mesa de Escritório,3830.77,6,,766.15
+OD-1387,2025-03-10,CT-200,Consumidor,Norte,Eletrônicos,Fone Bluetooth,136.19,1,0.0,20.43
+OD-1455,2024-05-11,CT-186,Home Office,Sul,Móveis,Estante de Livros,2555.53,7,0.0,511.11
+OD-1308,2024-01-28,CT-244,Corporativo,Sudeste,Material de Escritório,Organizador de Mesa,72.81,2,0.15,19.29
+OD-1236,2025-10-28,CT-121,Consumidor,Nordeste,Material de Escritório,Caderno Universitário,205.62,9,0.05,73.0
+OD-1117,2024-08-11,CT-243,Corporativo,Sudeste,Móveis,Estante de Livros,343.3,1,0.0,68.66
+OD-1105,12/09/2024,CT-203,Consumidor,Sudeste,Móveis,Luminária LED,292.13,4,0.15,27.75
+OD-1135,2025-12-09,CT-228,Home Office,Nordeste,Vestuário,Jaqueta Corta-Vento,1477.27,9,0.0,369.32
+OD-1279,2024-10-29,CT-228,Consumidor,Nordeste,Material de Escritório,Organizador de Mesa,248.6,6,0.0,99.44
+OD-1219,2024-07-23,CT-220,Consumidor,Sudeste,Vestuário,Calça Jeans Premium,752.18,6,0.05,159.84
+OD-1465,2026-03-10,CT-152,Corporativo,Sudeste,Material de Escritório,Caneta Gel 12un,92.69,5,0.15,24.56
+OD-1205,2024-03-21,CT-160,Home Office,Norte,Material de Escritório,Papel A4 500fls,261.22,9,0.1,80.98
+OD-1209,2024-07-02,CT-148,Consumidor,Centro-Oeste,Material de Escritório,Caderno Universitário,202.14,8,0.0,80.86
+OD-1378,2024-04-27,CT-244,Consumidor,Sul,Vestuário,Tênis Casual,1815.08,10,0.1,317.64
+OD-1283,2025-06-09,CT-158,Consumidor,Nordeste, Material de Escritório ,Organizador de Mesa,157.41,4,0.0,62.96
+OD-1041,2024-05-13,CT-190,Corporativo,Centro-Oeste,Eletrônicos,Monitor 4K,1923.13,1,0.05,225.97
+OD-1092,2025-12-04,CT-112,Home Office,Sudeste,Móveis,Luminária LED,72.53,1,0.0,14.51
+OD-1115,2024-03-05,CT-196,Corporativo,Centro-Oeste,Material de Escritório,Caderno Universitário,26.62,1,0.2,
+OD-1162,2025-07-04,CT-102,Consumidor,Centro-Oeste,Vestuário,Calça Jeans Premium,1164.27,9,,291.07
+OD-1233,2024-10-07,CT-168,Consumidor,Norte, Material de Escritório ,Papel A4 500fls,176.44,6,0.2,38.82
+OD-1469,2024-01-23,CT-217,Corporativo,Nordeste,Vestuário,Camiseta Algodão,368.75,7,0.1,64.53
+OD-1394,25/02/2026,CT-134,Consumidor,Norte,Material de Escritório,Caderno Universitário,202.77,9,0.0,81.11
+OD-1161,2024-03-12,CT-213,Consumidor,Norte,Material de Escritório,Caderno Universitário,125.68,5,0.15,33.31
+OD-1468,2025-02-25,CT-244,Home Office,Nordeste,Eletrônicos,Smartphone X,1280.73,1,0.2,25.61
+OD-1406,2024-05-18,CT-184,Home Office,Norte,Vestuário,Tênis Casual,1497.31,7,0.0,374.33
+OD-1198,2024-06-14,CT-111,Corporativo,Norte,Móveis,Luminária LED,651.21,8,0.1,84.66
+OD-1379,2025-08-28,CT-186,Home Office,Centro-Oeste,Eletrônicos,Carregador Rápido,110.34,2,0.1,
+OD-1487,2024-01-15,CT-109,Consumidor,Norte,Material de Escritório,Organizador de Mesa,224.27,6,0.0,89.71
+OD-1155,2025-03-24,CT-230,Consumidor,Centro-Oeste,Vestuário,Camiseta Algodão,501.9,10,0.05,106.65
