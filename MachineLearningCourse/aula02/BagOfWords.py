@@ -3,10 +3,6 @@ from sklearn.feature_extraction.text import CountVectorizer
 from nltk.corpus import stopwords
 import nltk
 
-# Descomente a linha abaixo na primeira execução para baixar as stopwords
-#nltk.download('stopwords')
-
-
 def preprocess_text(text):
     """
     Função para pré-processar texto:
