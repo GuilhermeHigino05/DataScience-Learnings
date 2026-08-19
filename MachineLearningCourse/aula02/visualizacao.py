@@ -1,5 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
+from sklearn.metrics import ConfusionMatrixDisplay, confusion_matrix
 
 def visualizar_perceptron(features, labels, theta, theta_0, acuracia, dataset_type='treino', mostrar=True, salvar_arquivo=None):
     """
@@ -93,6 +94,32 @@ def visualizar_comparacao_acuracia(model_names, train_scores, test_scores, mostr
 
     if salvar_arquivo:
         plt.savefig(salvar_arquivo)
+
+    if mostrar:
+        plt.show()
+
+    return fig
+
+
+def visualizar_matrizes_confusao(model_names, labels_reais, predicoes, mostrar=True, salvar_arquivo=None):
+    """Exibe uma matriz de confusão para cada modelo avaliado."""
+    fig, axes = plt.subplots(1, len(model_names), figsize=(5 * len(model_names), 4))
+    axes = np.atleast_1d(axes)
+
+    for axis, model_name, previsoes in zip(axes, model_names, predicoes):
+        matriz = confusion_matrix(labels_reais, previsoes, labels=[-1, 1])
+        display = ConfusionMatrixDisplay(
+            confusion_matrix=matriz,
+            display_labels=['-1', '1']
+        )
+        display.plot(ax=axis, cmap='Blues', colorbar=False)
+        axis.set_title(model_name)
+
+    fig.suptitle('Matrizes de Confusão - Conjunto de Teste')
+    fig.tight_layout()
+
+    if salvar_arquivo:
+        fig.savefig(salvar_arquivo)
 
     if mostrar:
         plt.show()

@@ -5,8 +5,8 @@ from sklearn.model_selection import train_test_split
 
 from loadDataset import carregar_dataset_sentimento
 from BagOfWords import create_bow_vectorizer, GetFeatures
-from visualizacao import visualizar_comparacao_acuracia
-from Model import SGD, Acuracia, PerceptronBase
+from visualizacao import visualizar_comparacao_acuracia, visualizar_matrizes_confusao
+from Model import SGD, Acuracia, PerceptronBase, Predicao
 
 
 inicio_total = time.perf_counter()
@@ -47,6 +47,15 @@ print(f"Perceptron - Acurácia no treino: {acuraciaP_treino:.4f}")
 print(f"Perceptron - Acurácia no teste: {acuraciaP_teste:.4f}")
 print(f"SGD - Acurácia no treino: {acuraciaSGD_treino:.4f}")
 print(f"SGD - Acurácia no teste: {acuraciaSGD_teste:.4f}")
+
+predicoesP_teste = Predicao(thetaP, theta_0P, X_test)
+predicoesSGD_teste = Predicao(thetaSGD, theta_0SGD, X_test)
+visualizar_matrizes_confusao(
+    ['Perceptron', 'SGD'],
+    y_test,
+    [predicoesP_teste, predicoesSGD_teste],
+    salvar_arquivo='matrizes_confusao_sentimento.png'
+)
 
 visualizar_comparacao_acuracia(
     ['Perceptron', 'SGD'],

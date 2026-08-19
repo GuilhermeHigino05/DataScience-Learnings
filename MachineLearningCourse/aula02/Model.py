@@ -59,14 +59,18 @@ def SGD(x, y, T, eta_0, lambda_):
     return theta, theta_0
 
 
-def Acuracia(theta, theta_0, x, y):
-    if x.shape[0] == 0:
-        return 0.0
-
+def Predicao(theta, theta_0, x):
     if sparse.issparse(x):
         scores = x.dot(theta) + theta_0
     else:
         scores = x @ theta + theta_0
 
-    preds = np.where(scores > 0, 1, -1)
+    return np.where(scores > 0, 1, -1)
+
+
+def Acuracia(theta, theta_0, x, y):
+    if x.shape[0] == 0:
+        return 0.0
+
+    preds = Predicao(theta, theta_0, x)
     return float(np.mean(preds == y))

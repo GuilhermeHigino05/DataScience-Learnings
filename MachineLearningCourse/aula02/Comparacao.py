@@ -1,6 +1,6 @@
 from loadDataset import carregar_dataset_bolas
-from Model import PerceptronBase, SGD, Acuracia
-from visualizacao import visualizar_perceptron
+from Model import PerceptronBase, SGD, Acuracia, Predicao
+from visualizacao import visualizar_perceptron, visualizar_matrizes_confusao
 from sklearn.model_selection import train_test_split
 import os
 import time
@@ -37,6 +37,15 @@ print(f"Perceptron - Acurácia no treino: {acuraciaP_treino:.4f}")
 print(f"Perceptron - Acurácia no teste: {acuraciaP_teste:.4f}")
 print(f"SGD - Acurácia no treino: {acuraciaSGD_treino:.4f}")
 print(f"SGD - Acurácia no teste: {acuraciaSGD_teste:.4f}")
+
+predicoesP_teste = Predicao(thetaP, theta_0P, X_test)
+predicoesSGD_teste = Predicao(thetaSGD, theta_0SGD, X_test)
+visualizar_matrizes_confusao(
+    ['Perceptron', 'SGD'],
+    y_test,
+    [predicoesP_teste, predicoesSGD_teste],
+    salvar_arquivo='matrizes_confusao_bolas.png'
+)
 
 visualizar_perceptron(X_train, y_train, thetaP, theta_0P, acuraciaP_treino, dataset_type='treino',
                      salvar_arquivo="perceptron_treino.png")
