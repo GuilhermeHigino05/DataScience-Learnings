@@ -1,50 +1,72 @@
-import random
 import numpy as np
+from scipy import sparse
 
 
-def PerceptronBase(features: np.ndarray, labels: np.ndarray, T: int):
+def PerceptronBase(features, labels, T):
+    is_sparse = sparse.issparse(features)
+    n = features.shape[0]
     theta = np.zeros(features.shape[1])
     theta_0 = 0.0
+    rng = np.random.default_rng(42)
 
     for _ in range(T):
-        for _ in range(len(features)):
-            i = random.randint(0, len(features) - 1)
-            if labels[i] * (np.dot(theta, features[i]) + theta_0) <= 0:
-                theta = theta + labels[i] * features[i]
-                theta_0 = theta_0 + labels[i]
+        for i in rng.permutation(n):
+            if is_sparse:
+                row = features.getrow(i)
+                margin = row.dot(theta)[0] + theta_0
+            else:
+                margin = np.dot(theta, features[i]) + theta_0
+
+            if labels[i] * margin <= 0:
+                if is_sparse:
+                    theta[row.indices] += labels[i] * row.data
+                else:
+                    theta += labels[i] * features[i]
+                theta_0 += labels[i]
 
     return theta, theta_0
 
 
-def SGD(x: np.ndarray, y: np.ndarray, T: int, eta_0: float, lambda_: float):
+def SGD(x, y, T, eta_0, lambda_):
+    is_sparse = sparse.issparse(x)
+    n = x.shape[0]
     theta = np.zeros(x.shape[1])
     theta_0 = 0.0
+    rng = np.random.default_rng(314)
+    t = 0
 
-    for t in range(1, T + 1):
-        i = random.randint(0, len(x) - 1)
-        eta = eta_0 / np.sqrt(t)
-        margin = y[i] * (np.dot(theta, x[i]) + theta_0)
+    for _ in range(T):
+        for i in rng.permutation(n):
+            t += 1
+            eta = eta_0 / np.sqrt(t)
 
-        if margin < 1:
-            theta = (1 - eta * lambda_) * theta + eta * y[i] * x[i]
-            theta_0 = theta_0 + eta * y[i]
-        else:
-            theta = (1 - eta * lambda_) * theta
+            if is_sparse:
+                row = x.getrow(i)
+                margin = y[i] * (row.dot(theta)[0] + theta_0)
+            else:
+                margin = y[i] * (np.dot(theta, x[i]) + theta_0)
+
+            if margin < 1:
+                theta *= (1 - eta * lambda_)
+                if is_sparse:
+                    theta[row.indices] += eta * y[i] * row.data
+                else:
+                    theta += eta * y[i] * x[i]
+                theta_0 += eta * y[i]
+            else:
+                theta *= (1 - eta * lambda_)
 
     return theta, theta_0
-
-
-def classificar(theta: np.ndarray, theta_0: float, x: np.ndarray):
-    return 1 if np.dot(theta, x) + theta_0 > 0 else -1
 
 
 def Acuracia(theta, theta_0, x, y):
-    if len(x) == 0:
+    if x.shape[0] == 0:
         return 0.0
 
-    acertos = 0
-    for i in range(len(x)):
-        if classificar(theta, theta_0, x[i]) == y[i]:
-            acertos += 1
+    if sparse.issparse(x):
+        scores = x.dot(theta) + theta_0
+    else:
+        scores = x @ theta + theta_0
 
-    return acertos / len(x)
+    preds = np.where(scores > 0, 1, -1)
+    return float(np.mean(preds == y))
