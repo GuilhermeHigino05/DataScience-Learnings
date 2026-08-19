@@ -1,0 +1,12 @@
+[Tempo] Carregamento do dataset: 0.0267s
+[Tempo] Criação do vetorizador (Bag of Words): 1.8468s
+[Tempo] Extração de features: 0.0660s
+[Tempo] Divisão treino/teste: 0.0012s
+[Tempo] Treinamento Perceptron: 1.3388s
+[Tempo] Treinamento SGD: 2.6121s
+[Tempo] Cálculo das acurácias: 0.0012s
+Perceptron - Acurácia no treino: 0.9919
+Perceptron - Acurácia no teste: 0.7550
+SGD - Acurácia no treino: 0.8709
+SGD - Acurácia no teste: 0.7750
+[Tempo] Tempo total de execução: 8.1101s
