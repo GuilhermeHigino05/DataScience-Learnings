@@ -1,3 +1,14 @@
+#& =====================================================================
+#& COMPARACAO.PY — compara Perceptron e SVM no dataset 2D "bolas.csv".
+#& ---------------------------------------------------------------------
+#& Aqui as features são DENSAS (numpy 2D), porque o dataset tem só 2
+#& colunas numéricas. Isso exercita o caminho "denso" de Model.py.
+#&
+#& Atenção à chamada do SGD: `T=20` agora significa 20 ÉPOCAS. Na versão
+#& antiga, `T=50_000_000` era interpretado como iterações — a causa da
+#& lentidão. Com a mudança, este script roda em frações de segundo.
+#& =====================================================================
+
 from loadDataset import carregar_dataset_bolas
 from Model import PerceptronBase, SGD, Acuracia
 from visualizacao import visualizar_perceptron
@@ -10,7 +21,8 @@ X_train, X_test, y_train, y_test = train_test_split(features, labels, test_size=
 
 thetaP, theta_0P = PerceptronBase(X_train, y_train, 20)
 
-thetaSGD, theta_0SGD = SGD(X_train, y_train, 50000000, 0.6, 0.4)
+# T=20 = 20 épocas (cada época percorre todas as amostras uma vez).
+thetaSGD, theta_0SGD = SGD(X_train, y_train, 20, 0.6, 0.4)
 
 acuraciaP_treino = Acuracia(thetaP, theta_0P, X_train, y_train)
 acuraciaSGD_treino = Acuracia(thetaSGD, theta_0SGD, X_train, y_train)
